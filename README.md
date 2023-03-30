@@ -7,7 +7,7 @@
   
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adbstjsdud">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sun_y0">
 
 - 🌱 I’m currently learning `docker`, `k8s`, `AWS`
 - 🥇 I majored in Datascience
