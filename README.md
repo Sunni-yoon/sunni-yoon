@@ -3,9 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adbstjsdud@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
 
+
   
 ### Who Am I
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=adbstjsdud">
 
 - 🌱 I’m currently learning `docker`, `k8s`, `AWS`
 - 🥇 I majored in Datascience
