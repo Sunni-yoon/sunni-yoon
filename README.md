@@ -15,7 +15,7 @@
 
 ### Experience
 
-- 🎓 Sangmyung University, Grobal Bussiness (2017.03~2022.02)
+- 🎓 Sangmyung University, Global Bussiness (2017.03~2022.02)
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 - 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
