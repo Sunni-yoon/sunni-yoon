@@ -14,7 +14,7 @@
 
 ### Experience
 
-- 🌍 데이터마케팅코리아, Data Consulting team Intern (2021.09~2021.12)
+- 🌍 데이터마케팅코리아, 데이터컨설팅팀 인턴 (2021.09~2021.12)
 - 🔥 Naver boostcourse 1th, AI Basic(2022.01~2022.02)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 - 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
