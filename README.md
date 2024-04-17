@@ -10,18 +10,19 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sun_y0">
 
 - 🌱 B.S : Global Business and BigData Analytics, Sangmyung Univ. 2022.02
-- 🥇 M.S : Data science, Seoul University of Science and Technology Univ. 2024.08
+- 🥇 M.S : Data science, Seoul University of Science and Technology Univ. 2022.09 ~
 
 ### Experience
 
+- 🌍 한국데이터산업진흥원 데이터청년캠퍼스 활동 (2021.06~2021.08)
 - 🌍 데이터마케팅코리아, 데이터컨설팅팀 인턴 (2021.09~2021.12)
 - 🔥 Naver boostcourse 1th, AI Basic(2022.01~2022.02)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🌍 빅데이터 연합동아리 BOAZ 20th, 데이터분석 부분 활동 (2023.01~2024.01)
 - 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
 
-### What I Like
+### Skill
 
-- 📺 Drama
-- 👾 Animation
+- 📺 Python
+- 👾 SQL
 - 🍕 Pizza
 - 📚 Books
