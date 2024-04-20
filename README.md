@@ -19,10 +19,6 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 - 🔥 Naver boostcourse 1th, AI Basic (2022.01~2022.02)
 - 🌍 빅데이터 연합동아리 BOAZ 20th, 데이터분석 부분 활동 (2023.01~2024.01)
 
-### Projects & Research
-
-- 데이터청년캠퍼스 
-
 ### Tech
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R studio-75AADB?style=flate&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flate&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flate&logo=jupyter&logoColor=white"/> <br/>
