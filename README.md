@@ -4,7 +4,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
 
 Hi I'm seonyeong ! 🖐️ <br/>
-My research areas NLP(natural language processing), recommendation systems, and deep learning applications. 😊
+My research areas NLP(natural language processing), Recommendation systems, and Deep learning applications. 😊
 
   
 ### Major
