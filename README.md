@@ -3,6 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adbstjsdud@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
 
+Hi I'm seonyeong 🖐️
+My research areas NLP(natural language processing), recommendation systems, and deep learning applications 😊
 
   
 ### Major
@@ -24,4 +26,4 @@
 ### Tech
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R studio-75AADB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flate&logo=python&logoColor=white"/> <br/>
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flate&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon aws-232F3E?style=flate&logo=python&logoColor=white"/>
