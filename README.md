@@ -3,8 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adbstjsdud@gmail.com) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
 
-Hi I'm seonyeong 🖐️
-My research areas NLP(natural language processing), recommendation systems, and deep learning applications 😊
+Hi I'm seonyeong ! 🖐️ <br/>
+My research areas NLP(natural language processing), recommendation systems, and deep learning applications. 😊
 
   
 ### Major
