@@ -23,7 +23,7 @@
 
 ### Tech
 
-<img src="https://img.shields.io/badge/Python-008FC7?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-008FC7?style=flate&logo=python&logoColor=white"/>
 
 - 📺 Python
 - 👾 SQL
