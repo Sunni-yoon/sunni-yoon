@@ -9,8 +9,8 @@ My research areas NLP(natural language processing), Recommendation systems, and 
   
 ### Major
 
-- 🌱 B.S : Global Business and BigData Analytics, Sangmyung Univ. 2022.02
-- 🥇 M.S : Data science, Seoul University of Science and Technology Univ. 2022.09 ~
+- 🎓 B.S : Global Business and BigData Analytics, Sangmyung Univ. 2022.02
+- 🎓 M.S : Data science, Seoul University of Science and Technology Univ. 2022.09 ~
 
 ### Experience
 
