@@ -23,15 +23,9 @@
 
 ### Tech
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/rstudio-75AADB?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbeaver-382923?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=flate&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flate&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R studio-75AADB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flate&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flate&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazonaws-232F3E?style=flate&logo=python&logoColor=white"/>
 
 
 - 📺 Python
