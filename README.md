@@ -24,6 +24,7 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 ### Project & Research
 - 🌍 대한산업공학회, 2023 춘계공동학술대회 1저자 포스터 발표 (2023.06)
 - 🌍 한국데이터마이닝학회, 2023 추계학술대회 1저자 구두 발표 (2023.11)
+- 🌍 의약품 안전관리 정보 지능화 엔진 개발 (2023.06~2024.02)
 - 🌍 대한산업공학회, 2024 춘계공동학술대회 1저자 포스터 발표 (2024.05)
 
 ### Tech
