@@ -13,7 +13,7 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 - 🎓 B.S : BigData Analytics, Sangmyung Univ. 2022.02
 - 🎓 M.S : Data science, Seoul University of Science and Technology Univ. 2022.09 ~ 2024.08
 
-### 🔥Experience 
+### 🔥 Experience 
 
 - 🔥 한국데이터산업진흥원 데이터청년캠퍼스 활동 (2021.06~2021.08)
 - 🔥 데이터마케팅코리아, 데이터컨설팅팀 인턴 (2021.09~2021.12)
