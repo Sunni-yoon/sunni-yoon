@@ -28,6 +28,9 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 - 📃 대한산업공학회, 2024 춘계공동학술대회 1저자 포스터 발표 (2024.05)
 - 📃 언어분석모델 기반 다국어 추천 알고리즘 관광 서비스 개발 (2024.06~2024.12)
 
+### 🏆 Competition
+- 🏆 인공지능 제조데이터 분석 경진대회 우수상 - 중소벤처기업부/KAIST 주관 (2024.11)
+
 ### Tech
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R studio-75AADB?style=flate&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flate&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flate&logo=jupyter&logoColor=white"/> <br/>
