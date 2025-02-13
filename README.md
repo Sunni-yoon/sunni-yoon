@@ -13,6 +13,10 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 - 🎓 B.S : BigData Analytics, Sangmyung Univ. 2022.02
 - 🎓 M.S : Data science, Seoul University of Science and Technology Univ. 2022.09 ~ 2024.08
 
+### 💼 Career
+- 💼 (주)샌드박스네트워크, Data Analyst (2024.12~)
+
+
 ### 🔥 Experience 
 
 - 🔥 한국데이터산업진흥원 데이터청년캠퍼스 활동 (2021.06~2021.08)
