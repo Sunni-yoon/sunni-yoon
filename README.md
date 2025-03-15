@@ -22,7 +22,7 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 - 🔥 한국데이터산업진흥원 데이터청년캠퍼스 활동 (2021.06~2021.08)
 - 🔥 데이터마케팅코리아, 데이터컨설팅팀 인턴 (2021.09~2021.12)
 - 🔥 Naver boostcourse 1th, AI Basic (2022.01~2022.02)
-- 🔥 서울과학기술대학교, 데이터 기반 사용자 분석 연구실 (2022.09~)
+- 🔥 서울과학기술대학교, 데이터 기반 사용자 분석 연구실 (2022.09~2024.08)
 - 🔥 빅데이터 연합동아리 BOAZ 20th, 데이터분석 부분 활동 (2023.01~2024.01)
 
 ### 📃 Project & Research
