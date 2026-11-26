@@ -24,6 +24,7 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 - 🔥 Naver boostcourse 1th, AI Basic (2022.01~2022.02)
 - 🔥 서울과학기술대학교, 데이터 기반 사용자 분석 연구실 (2022.09~2024.08)
 - 🔥 빅데이터 연합동아리 BOAZ 20th, 데이터분석 부분 활동 (2023.01~2024.01)
+- 🔥 LG전자 스마트팩토리 아카데미, 스마트팩토리 과정 수료 (2026.08~2026.11)
 
 ### 📃 Project & Research
 - 📃 대한산업공학회, 2023 춘계공동학술대회 1저자 포스터 발표 (2023.06)
@@ -34,6 +35,7 @@ My research areas NLP(natural language processing), Recommendation systems, and 
 
 ### 🏆 Competition
 - 🏆 인공지능 제조데이터 분석 경진대회 우수상 - 중소벤처기업부/KAIST 주관 (2024.11)
+- 🏆 LG전자 스마트팩토리 아카데미 캡스톤 프로젝트 1위 - LG전자 주관 (2026.11)
 
 ### Tech
 
